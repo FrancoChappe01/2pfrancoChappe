@@ -1,1 +1,3 @@
-alert ("Gol en contra de Pol Fernandez")
+function mostrarvalor(){
+    alert("Javier");
+}
